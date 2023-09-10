@@ -46,9 +46,9 @@ body {
 .cat-img {
   box-shadow: 2px 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 30px;
-  max-width: 300px;
+  max-width: 700px;
 }
-@media screen and (min-width: 1150px) {
+@media screen and (min-width: 860px) {
   .cat-img {
     max-width: 500px;
   }
